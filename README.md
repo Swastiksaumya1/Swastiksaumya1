@@ -11,7 +11,7 @@
 - 🌱 Currently learning **CSS mastery & advanced React development**
 - 🤝 Open to internships, freelance projects, and collaborations
 - 🌐 Co-creator @ **NeuroBolt** (AI/ML Innovation Platform)
-- 📫 Reach me: [LinkedIn](https://linkedin.com/in/your-link) | [Portfolio](https://your-portfolio-link) | [Email](mailto:your-email@example.com)
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/swastik-saumya-996878296 ) | [Portfolio](https://your-portfolio-link) | [Email](swastiksaumya07@gmail.com)
 
 ---
 
@@ -27,16 +27,13 @@
 ---
 
 ## 📂 Featured Projects
-- 🛋️ **[E-Commerce Furniture Website](https://github.com/swastiksaumya/furniture-store)**  
+- 🛋️ **[E-Commerce Furniture Website](https://github.com/Swastiksaumya1/major-projcet.git)**  
   *React, Firebase, Tailwind CSS — A modern e-commerce platform with user-friendly design.*
 
-- 🚗 **[Self-Driving Car (OpenCV)](https://github.com/swastiksaumya/self-driving-car)**  
-  *Python, OpenCV — AI-based car simulation project.*
-
-- 🧠 **[Resume Optimization Tool](https://github.com/swastiksaumya/resume-optimizer)**  
+- 🧠 **[Resume Optimization Tool](https://github.com/Swastiksaumya1/resume-builder-project.git)**  
   *ML-based resume scoring tool (part of NeuroBolt projects).*
 
-- ☁️ **[Weather Prediction using KNN](https://github.com/swastiksaumya/weather-prediction)**  
+- ☁️ **[Weather Prediction using KNN](https://github.com/Swastiksaumya1/Weather-Website.git)**  
   *ML project predicting weather conditions.*
 
 ---
