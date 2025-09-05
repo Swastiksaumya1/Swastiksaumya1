@@ -39,9 +39,10 @@
 ---
 
 ## 📊 GitHub Stats
-![Swastik's GitHub stats](https://github-readme-stats.vercel.app/api?username=swastiksaumya&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swastiksaumya&layout=compact&theme=radical)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=swastiksaumya&theme=radical)
+## 📊 GitHub Stats
+![Swastik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swastiksaumya1&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swastiksaumya1&layout=compact&theme=radical)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Swastiksaumya1&theme=radical)
 
 ---
 
@@ -54,4 +55,4 @@
 ---
 
 ## 👀 Profile Views
-![Profile views](https://komarev.com/ghpvc/?username=swastiksaumya&label=Profile%20views&color=0e75b6&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=swastiksaumya1&label=Profile%20views&color=0e75b6&style=flat)
