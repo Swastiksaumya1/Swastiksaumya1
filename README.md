@@ -1,9 +1,4 @@
 <table>
-<tr>
-<td width="140">
-  <img src="https://raw.githubusercontent.com/Swastiksaumya1/Swastiksaumya1/main/photo1.png" width="130" alt="Swastik Saumya"/>
-</td>
-<td>
 
 <h1>Swastik Saumya</h1>
 
