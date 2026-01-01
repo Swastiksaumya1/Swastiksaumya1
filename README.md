@@ -1,58 +1,95 @@
-# Hi there, I'm Swastik 👋  
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Swastiksaumya1/Swastiksaumya1/main/photo1.png" width="140" alt="Swastik Saumya" />
+  
+  <h1>Swastik Saumya</h1>
+  <p>Frontend Engineer • React • UI Systems</p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;React+Developer;MERN+Stack+Learner;UI%2FUX+Explorer)
-
----
-
-## 🚀 About Me
-- 🎓 Pursuing **BCA @ IMS UC Ghaziabad (2022–2025)**
-- 💻 Passionate **Frontend Developer** with strong focus on **React, JavaScript, and modern UI frameworks**
-- 🔨 Completed multiple **Web Development Internships** (Cipher Byte Technologies, Bharat Intern, Code Alpha, Oasis Infobyte, CSEdge, Techno Hack EdTech)
-- 🌱 Currently learning **CSS mastery & advanced React development**
-- 🤝 Open to internships, freelance projects, and collaborations
-- 🌐 Co-creator @ **NeuroBolt** (AI/ML Innovation Platform)
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/swastik-saumya-996878296 ) | [Portfolio](https://your-portfolio-link) | [Email](swastiksaumya07@gmail.com)
+  <p>
+    <a href="https://linkedin.com/in/swastik-saumya">LinkedIn</a> ·
+    <a href="mailto:swastiksaumya09@gmail.com">Email</a> ·
+    <a href="https://github.com/Swastiksaumya1">GitHub</a>
+  </p>
+</div>
 
 ---
 
-## 🛠 Tech Stack
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+## About
+I build **clean, performant, and scalable frontend applications** using modern JavaScript and React.
+
+My focus is not on tutorials or toy projects — it’s on **real UI systems**, **maintainable component architecture**, and **shipping usable products**.
+
+Currently improving:
+- Advanced React patterns
+- CSS architecture & UI consistency
+- Performance and code quality
 
 ---
 
-## 📂 Featured Projects
-- 🛋️ **[E-Commerce Furniture Website](https://github.com/Swastiksaumya1/major-projcet.git)**  
-  *React, Firebase, Tailwind CSS — A modern e-commerce platform with user-friendly design.*
-
-- 🧠 **[Resume Optimization Tool](https://github.com/Swastiksaumya1/resume-builder-project.git)**  
-  *ML-based resume scoring tool (part of NeuroBolt projects).*
-
-- ☁️ **[Weather Prediction using KNN](https://github.com/Swastiksaumya1/Weather-Website.git)**  
-  *ML project predicting weather conditions.*
+## Tech Stack
+**Frontend:** React, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS  
+**Backend / Services:** Firebase, basic Node.js  
+**Tools:** Git, GitHub, GitHub Copilot, VS Code  
+**Other:** Python, OpenCV
 
 ---
 
-## 📊 GitHub Stats
-## 📊 GitHub Stats
-![Swastik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swastiksaumya1&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swastiksaumya1&layout=compact&theme=radical)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Swastiksaumya1&theme=radical)
+## Selected Projects
+
+### E-Commerce Furniture Platform
+**React · Firebase · Tailwind CSS**
+
+- Full-stack e-commerce system with authentication, cart, and checkout
+- Firebase Auth + real-time database for users and orders
+- Responsive UI with 95+ Lighthouse performance score
+- Modular, scalable React component structure
+
+🔗 https://github.com/Swastiksaumya1/major-projcet.git
 
 ---
 
-## 🏆 Certifications & Achievements
-- 📱 **Android Development Certification**  
-- 🎨 **UI/UX Design Certification**  
-- 🔒 **Cybersecurity Basics**  
-- 🏛 Attended **AI/ML & Data Science Workshops @ IIT Delhi & IIT Kanpur**
+### Resume Optimization Tool (NeuroBolt)
+**Python · Machine Learning**
+
+- ML-based resume scoring and optimization
+- Built as part of NeuroBolt AI initiatives
+- Focused on practical usefulness, not demos
+
+🔗 https://github.com/Swastiksaumya1/resume-builder-project.git
 
 ---
 
-## 👀 Profile Views
-![Profile views](https://komarev.com/ghpvc/?username=swastiksaumya1&label=Profile%20views&color=0e75b6&style=flat)
+### Self-Driving Car (Computer Vision)
+**Python · OpenCV · Raspberry Pi**
+
+- Lane detection and obstacle avoidance using CV pipelines
+- Real-time motor control via Raspberry Pi
+- Hardware + software integration project
+
+---
+
+## Experience (Condensed)
+**Web Development Specialist**  
+Techno Hack • Code Alpha • Cipher Byte Technologies
+
+- Built production-ready React applications
+- Implemented responsive, mobile-first UI
+- Firebase authentication and real-time data handling
+- Performance optimization and clean state management
+
+---
+
+## Education
+**BCA – Computer Applications**  
+IMS UC Ghaziabad (2022–2025)
+
+---
+
+## Certifications
+- Android Development – Coursera  
+- React Native – Meta  
+- Google UX Design  
+- Cybersecurity Analyst – Tata (Forage)
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=swastiksaumya1&label=Profile%20Views&color=0e75b6" />
