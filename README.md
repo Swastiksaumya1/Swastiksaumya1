@@ -1,4 +1,7 @@
 <table>
+<tr>
+
+<td>
 
 <h1>Swastik Saumya</h1>
 
@@ -35,45 +38,57 @@ Frontend-focused developer building <b>clean, scalable, and performant UI system
 
 ---
 
-## 🛠 Tech Stack (Current & Ongoing)
+## 🛠 Tech Stack
 
-**Core Web**
-- HTML5  
-- CSS3  
-- JavaScript (ES6+)
+### 🌐 Core Web
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
 
-**Frontend**
-- React *(ongoing, actively building projects)*  
-- Tailwind CSS  
+### ⚛ Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind" />
+</p>
 
-**Backend / Services**
-- Firebase (Auth, Database, Hosting)  
-- SQL (basics)
+<p>
+  <img src="https://skillicons.dev/icons?i=ts" />
+</p>
 
-**Version Control**
-- Git  
-- GitHub  
+> React is actively used in projects.  
+> TypeScript is **currently learning & integrating**.
 
-**Learning Next**
-- TypeScript *(ongoing)*  
+### 🔧 Backend / Services
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase,mysql" />
+</p>
 
-> I focus on learning tools by **building real projects**, not just tutorials.
+### 🧑‍💻 Version Control
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</p>
 
 ---
 
 ## 🤖 AI-Assisted Development
-I work **very comfortably with AI tools** to speed up development, debug faster, and improve code quality — without blindly copy-pasting.
 
-**Tools I use regularly:**
+I work **very smoothly with AI tools** to speed up development, debug efficiently, and improve code quality — while still understanding and owning the code.
+
+<p>
+  <img src="https://skillicons.dev/icons?i=githubcopilot" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/google.svg" height="48" />
+</p>
+
+**Tools I regularly use:**
 - GitHub Copilot  
 - ChatGPT  
 - Perplexity  
 - Gemini  
 
-Use cases:
-- Refactoring components
-- Debugging logic issues
-- Improving code readability
+**How I use AI:**
+- Component refactoring
+- Debugging logic and edge cases
+- Improving readability and structure
 - Exploring better architectural approaches
 
 ---
