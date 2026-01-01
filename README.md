@@ -7,10 +7,10 @@
 
 <h1>Swastik Saumya</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=3000&pause=800&color=6A5ACD&vCenter=true&lines=Frontend+Engineer;React+Developer;UI+Systems+Builder;MERN+Stack+Learner" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=3000&pause=800&color=6A5ACD&vCenter=true&lines=UI+Systems+Builder;Frontend+Developer;React+Learner;Modern+Web+Enthusiast" />
 
 <p>
-Frontend-focused developer building <b>clean, scalable, and performant UI systems</b> using modern React and JavaScript.
+Frontend-focused developer building <b>clean, scalable, and performant UI systems</b> using modern JavaScript and React.
 </p>
 
 <p>
@@ -32,19 +32,54 @@ Frontend-focused developer building <b>clean, scalable, and performant UI system
 ---
 
 ## 🚀 About Me
-- BCA @ IMS UC Ghaziabad (2022–2025)
-- Frontend-first mindset with strong React fundamentals
-- Experience building production-ready web apps
-- Interested in UI systems, performance, and real products
+- 🎓 BCA @ IMS UC Ghaziabad (2022–2025)
+- Frontend-first mindset with strong fundamentals
+- Experience building **production-ready web applications**
+- Interested in **UI systems, performance, and real-world products**
+- Comfortable working with **AI-assisted development workflows**
 
 ---
 
-## 🛠 Tech Stack
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat&logo=tailwind-css&logoColor=38BDF8)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+## 🛠 Tech Stack (Current & Ongoing)
+
+**Core Web**
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)
+
+**Frontend**
+- React *(ongoing, actively building projects)*  
+- Tailwind CSS  
+
+**Backend / Services**
+- Firebase (Auth, Database, Hosting)  
+- SQL (basics)
+
+**Version Control**
+- Git  
+- GitHub  
+
+**Learning Next**
+- TypeScript *(ongoing)*  
+
+> I focus on learning tools by **building real projects**, not just tutorials.
+
+---
+
+## 🤖 AI-Assisted Development
+I work **very comfortably with AI tools** to speed up development, debug faster, and improve code quality — without blindly copy-pasting.
+
+**Tools I use regularly:**
+- GitHub Copilot  
+- ChatGPT  
+- Perplexity  
+- Gemini  
+
+Use cases:
+- Refactoring components
+- Debugging logic issues
+- Improving code readability
+- Exploring better architectural approaches
 
 ---
 
@@ -53,8 +88,9 @@ Frontend-focused developer building <b>clean, scalable, and performant UI system
 ### 🛋️ E-Commerce Furniture Platform
 **React · Firebase · Tailwind CSS**
 
-- Auth, cart, checkout, and inventory management
-- Responsive UI with performance optimization
+- Authentication, cart, checkout, and order handling
+- Firebase Auth + real-time database
+- Responsive UI with performance optimizations
 - Clean component structure and state flow
 
 🔗 https://github.com/Swastiksaumya1/major-projcet.git
@@ -62,10 +98,10 @@ Frontend-focused developer building <b>clean, scalable, and performant UI system
 ---
 
 ### 🧠 Resume Optimization Tool (NeuroBolt)
-**Python · ML**
+**Python · Machine Learning**
 
-- Resume scoring and optimization using ML models
-- Built for real-world usability
+- Resume scoring and optimization using ML
+- Built for practical use, not demos
 
 🔗 https://github.com/Swastiksaumya1/resume-builder-project.git
 
