@@ -1,17 +1,9 @@
-<table>
-<tr>
-
-<td>
-
 <h1>Swastik Saumya</h1>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=3000&pause=800&color=6A5ACD&vCenter=true&lines=UI+Systems+Builder;Frontend+Developer;React+Learner;Modern+Web+Enthusiast" />
 
-<p>
-Frontend-focused developer building <b>clean, scalable, and performant UI systems</b> using modern JavaScript and React.
-</p>
+Frontend-focused developer building **clean, scalable, and performant UI systems** using modern JavaScript and React.
 
-<p>
 <a href="https://linkedin.com/in/swastik-saumya">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
 </a>
@@ -21,11 +13,6 @@ Frontend-focused developer building <b>clean, scalable, and performant UI system
 <a href="https://github.com/Swastiksaumya1">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
 </a>
-</p>
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -41,31 +28,25 @@ Frontend-focused developer building <b>clean, scalable, and performant UI system
 ## 🛠 Tech Stack
 
 ### 🌐 Core Web
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E"/>
 
 ### ⚛ Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind" />
-</p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TailwindCSS-0F172A?style=flat&logo=tailwindcss&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts" />
-</p>
-
-> React is actively used in projects.  
-> TypeScript is **currently learning & integrating**.
+> React is actively used in projects  
+> TypeScript is currently learning & integrating
 
 ### 🔧 Backend / Services
-<p>
-  <img src="https://skillicons.dev/icons?i=firebase,mysql" />
-</p>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=mysql&logoColor=white"/>
 
 ### 🧑‍💻 Version Control
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github" />
-</p>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
 
 ---
 
@@ -73,21 +54,14 @@ Frontend-focused developer building <b>clean, scalable, and performant UI system
 
 I work **very smoothly with AI tools** to speed up development, debug efficiently, and improve code quality — while still understanding and owning the code.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=githubcopilot" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/google.svg" height="48" />
-</p>
+<img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChatGPT-412991?style=flat&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Perplexity-0A0A0A?style=flat&logo=perplexity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white"/>
 
-**Tools I regularly use:**
-- GitHub Copilot  
-- ChatGPT  
-- Perplexity  
-- Gemini  
-
-**How I use AI:**
-- Component refactoring
-- Debugging logic and edge cases
+**How I use AI**
+- Refactoring components
+- Debugging logic & edge cases
 - Improving readability and structure
 - Exploring better architectural approaches
 
@@ -95,7 +69,7 @@ I work **very smoothly with AI tools** to speed up development, debug efficientl
 
 ## 📂 Featured Projects
 
-### 🛋️ E-Commerce Furniture Platform
+### 🛋️ E-Commerce Furniture Platform  
 **React · Firebase · Tailwind CSS**
 
 - Authentication, cart, checkout, and order handling
@@ -107,7 +81,7 @@ I work **very smoothly with AI tools** to speed up development, debug efficientl
 
 ---
 
-### 🧠 Resume Optimization Tool (NeuroBolt)
+### 🧠 Resume Optimization Tool (NeuroBolt)  
 **Python · Machine Learning**
 
 - Resume scoring and optimization using ML
