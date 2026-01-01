@@ -1,95 +1,74 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Swastiksaumya1/Swastiksaumya1/main/photo1.png" width="140" alt="Swastik Saumya" />
-  
-  <h1>Swastik Saumya</h1>
-  <p>Frontend Engineer • React • UI Systems</p>
+<table>
+<tr>
+<td width="140">
+  <img src="https://raw.githubusercontent.com/Swastiksaumya1/Swastiksaumya1/main/photo1.png" width="130" alt="Swastik Saumya"/>
+</td>
+<td>
 
-  <p>
-    <a href="https://linkedin.com/in/swastik-saumya">LinkedIn</a> ·
-    <a href="mailto:swastiksaumya09@gmail.com">Email</a> ·
-    <a href="https://github.com/Swastiksaumya1">GitHub</a>
-  </p>
-</div>
+<h1>Swastik Saumya</h1>
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=3000&pause=800&color=6A5ACD&vCenter=true&lines=Frontend+Engineer;React+Developer;UI+Systems+Builder;MERN+Stack+Learner" />
 
-## About
-I build **clean, performant, and scalable frontend applications** using modern JavaScript and React.
+<p>
+Frontend-focused developer building <b>clean, scalable, and performant UI systems</b> using modern React and JavaScript.
+</p>
 
-My focus is not on tutorials or toy projects — it’s on **real UI systems**, **maintainable component architecture**, and **shipping usable products**.
+<p>
+<a href="https://linkedin.com/in/swastik-saumya">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:swastiksaumya09@gmail.com">
+  <img src="https://img.shields.io/badge/Email-555?style=flat&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/Swastiksaumya1">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+</a>
+</p>
 
-Currently improving:
-- Advanced React patterns
-- CSS architecture & UI consistency
-- Performance and code quality
-
----
-
-## Tech Stack
-**Frontend:** React, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS  
-**Backend / Services:** Firebase, basic Node.js  
-**Tools:** Git, GitHub, GitHub Copilot, VS Code  
-**Other:** Python, OpenCV
+</td>
+</tr>
+</table>
 
 ---
 
-## Selected Projects
+## 🚀 About Me
+- BCA @ IMS UC Ghaziabad (2022–2025)
+- Frontend-first mindset with strong React fundamentals
+- Experience building production-ready web apps
+- Interested in UI systems, performance, and real products
 
-### E-Commerce Furniture Platform
+---
+
+## 🛠 Tech Stack
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat&logo=tailwind-css&logoColor=38BDF8)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## 📂 Featured Projects
+
+### 🛋️ E-Commerce Furniture Platform
 **React · Firebase · Tailwind CSS**
 
-- Full-stack e-commerce system with authentication, cart, and checkout
-- Firebase Auth + real-time database for users and orders
-- Responsive UI with 95+ Lighthouse performance score
-- Modular, scalable React component structure
+- Auth, cart, checkout, and inventory management
+- Responsive UI with performance optimization
+- Clean component structure and state flow
 
 🔗 https://github.com/Swastiksaumya1/major-projcet.git
 
 ---
 
-### Resume Optimization Tool (NeuroBolt)
-**Python · Machine Learning**
+### 🧠 Resume Optimization Tool (NeuroBolt)
+**Python · ML**
 
-- ML-based resume scoring and optimization
-- Built as part of NeuroBolt AI initiatives
-- Focused on practical usefulness, not demos
+- Resume scoring and optimization using ML models
+- Built for real-world usability
 
 🔗 https://github.com/Swastiksaumya1/resume-builder-project.git
 
 ---
 
-### Self-Driving Car (Computer Vision)
-**Python · OpenCV · Raspberry Pi**
-
-- Lane detection and obstacle avoidance using CV pipelines
-- Real-time motor control via Raspberry Pi
-- Hardware + software integration project
-
----
-
-## Experience (Condensed)
-**Web Development Specialist**  
-Techno Hack • Code Alpha • Cipher Byte Technologies
-
-- Built production-ready React applications
-- Implemented responsive, mobile-first UI
-- Firebase authentication and real-time data handling
-- Performance optimization and clean state management
-
----
-
-## Education
-**BCA – Computer Applications**  
-IMS UC Ghaziabad (2022–2025)
-
----
-
-## Certifications
-- Android Development – Coursera  
-- React Native – Meta  
-- Google UX Design  
-- Cybersecurity Analyst – Tata (Forage)
-
----
-
-<img src="https://komarev.com/ghpvc/?username=swastiksaumya1&label=Profile%20Views&color=0e75b6" />
+<img src="https://komarev.com/ghpvc/?username=swastiksaumya1&label=Profile%20Views&color=6A5ACD" />
